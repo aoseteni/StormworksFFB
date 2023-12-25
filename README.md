@@ -18,6 +18,11 @@ StormworksFFB/
 
 ＝＝使用方法＝＝
 使用方法はYouTube、及びニコニコ動画に投稿されている使い方動画をご覧ください。
+使い方動画(youtube)
+https://youtu.be/LSxOWuRjl4g
+
+使い方動画(ニコニコ動画)
+https://www.nicovideo.jp/watch/sm43189844?ref=garage_share_other
 
 youtubeチャンネル
 https://www.youtube.com/channel/UCG0iOB5MvWxTtbx1_Rf4VEQ
